@@ -50,4 +50,4 @@ Clone or refresh the genomics-workspace::
     
     docker-compose up 
  
-    note : if it fail to connect postgrest use ctrl+c and then docker-compose up again.
+    note : if it fails to connect postgrest then use ctrl+c to shut down and docker-compose up again.
