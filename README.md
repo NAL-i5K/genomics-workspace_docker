@@ -44,7 +44,7 @@ Project Application
 
 Clone or refresh the genomics-workspace::
 
-    git clone -b genomics_docker  --single-branch https://github.com/NAL-i5k/genomics-workspace   
+    git clone -b genomics_docker2  --single-branch https://github.com/NAL-i5k/genomics-workspace_docker   
     
     cd genomics-workspace 
     
